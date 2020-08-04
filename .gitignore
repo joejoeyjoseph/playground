@@ -102,3 +102,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+rb/movie_director_loss/~$directors_data.xlsx
